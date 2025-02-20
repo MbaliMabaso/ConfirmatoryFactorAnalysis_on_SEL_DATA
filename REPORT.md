@@ -47,8 +47,12 @@ these questions were unclear : Know_not_good_at, Like_talk_front, Prefer_grownup
 Evaluated multicollinearity among observed variables.
 All items had extremely high VIFs. To practice CFA using Python, I continued with the CFA analysis anyway and provided
 suggestions to improve model fit.
+
 Correlation Matrix
 ![](CorrelationMatrixSEL.png)
+
+VIF
+![](VIFsel_data.png)
 
 
 6. Checking Multivariate Normality and Univariate Normality:
