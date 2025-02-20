@@ -26,6 +26,9 @@ social awareness =~ Like_listen_ideas + Understand_others + Help_sad_people
 relationship skills =~ One_good_friend + Peers_like_me + Peers_say_kind
 Responsible Decisions =~ Follow_rules_alone + Homework_on_time + Think_before_act + Study_before_test```
 
+
+
+
 --Self Awareness: Measures students' ability to recognize emotions and express themselves.
 
 --Self Regulation: Examines emotional control and behavioral regulation.
