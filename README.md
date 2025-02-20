@@ -58,7 +58,7 @@ TLI improved to 0.882, closer to the recommended >0.90.
 RMSEA decreased to 0.07, now within the acceptable range (<0.08).
 
 Although model 2 has improved, the TLI is still below the ideal threshold and should be improved, and the VIF scores were very high (range from 19.39 to 76.81), suggesting severe multicollinearity which means that some items may be measuring the same underlying concept, rather than distinct constructs.
-image alt](URL)
+
 
 ##Suggestions:
 ---
