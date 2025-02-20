@@ -44,7 +44,8 @@ The SelfAwareness factor was removed due to poor fit in Model 1.
 The structure was adjusted to test if model performance improved with fewer factors.
 
 ##Results and comparisons
-image alt](URL)
+---
+[image alt](URL)
 
 Model 1 fit summary
 Model 1 did not fit well. The CFI and TLI were below the recommended 0.90, and the RMSEA exceeded the acceptable threshold (0.08). The significant chi-square test also indicated a poor fit.
@@ -59,13 +60,15 @@ RMSEA decreased to 0.07, now within the acceptable range (<0.08).
 Although model 2 has improved, the TLI is still below the ideal threshold and should be improved, and the VIF scores were very high (range from 19.39 to 76.81), suggesting severe multicollinearity which means that some items may be measuring the same underlying concept, rather than distinct constructs.
 image alt](URL)
 
-Suggestions:
+##Suggestions:
+---
 -Identify and remove highly redundant items that might be measuring the same aspect of a latent variable.
 -Conduct Exploratory Factor Analysis (EFA) to see if some items load onto multiple factors or if they cluster too closely. 
 -Re-evaluate factor structure: Some items might fit better under a different latent variable than originally hypothesized.
 -Modify the model by removing problematic items and testing whether the fit indices improve.
 
-#Technologies Used
+##Technologies Used
+---
 Python (semopy, pandas, matplotlib)
 Confirmatory Factor Analysis (CFA)
 Model Fit Evaluation (CFI, TLI, RMSEA, Chi-Square)
@@ -81,6 +84,7 @@ model.fit(df)
 Compare model fits and interpret results.
 
 ##Conclusion
+---
 
 This study explored CFA on SEL data, testing two models. Model 2 demonstrated notable improvements over Model 1 but still suggests areas for further refinement. The insights gained from this analysis contribute to the development of more reliable SEL assessments in educational research.
 
