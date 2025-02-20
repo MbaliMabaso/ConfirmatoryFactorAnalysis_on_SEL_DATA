@@ -103,7 +103,7 @@ Self Awareness due to its low Cronbach alpha (.425).
 ---
 Model Fit Summary
 
-image
+![](Model_Fit_ComparisonSEL.png)
 
 Model 1 did not fit well, with CFI and TLI below the recommended 0.90 and RMSEA above the acceptable threshold (<0.08). 
 The significant chi-square also indicates poor fit.
