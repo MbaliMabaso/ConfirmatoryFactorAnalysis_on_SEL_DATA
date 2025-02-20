@@ -40,19 +40,21 @@ There was no missing data.
 2. Removing Meaningless Variables:
 Excluded non-relevant variables such as participant IDs unrelated to the CFA model.
 Focused only on observed SEL-related indicators.
+The items were also removed as survey administrators informed me that students thought
+these questions were unclear : Know_not_good_at, Like_talk_front, Prefer_grownups.
 
-3. Checking Correlations and Variance Inflation Factor (VIF):
+4. Checking Correlations and Variance Inflation Factor (VIF):
 Evaluated multicollinearity among observed variables.
 All items had extremely high VIFs. To practice CFA using Python, I continued with the CFA analysis anyway and provided
 suggestions to improve model fit.
 (nsert image here)
 
-4. Checking Multivariate Normality and Univariate Normality:
+5. Checking Multivariate Normality and Univariate Normality:
 Assessed multivariate normality via Mardia’s test.
 Used Shapiro-Wilk tests and skewness/kurtosis values to examine normality in all survey items.
 Both tests were significant (p = <.05), indicating non-normality of data. Therefore, Robust Maximum Likelihood (MLR) was used.
 
-5. Cronbach’s Alpha for Internal Consistency:
+6. Cronbach’s Alpha for Internal Consistency:
    
 Computed Cronbach’s Alpha for each latent factor to check internal consistency.
 
