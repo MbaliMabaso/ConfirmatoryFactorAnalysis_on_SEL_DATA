@@ -56,8 +56,6 @@ CFI increased to 0.91, surpassing the 0.90 threshold for acceptable fit.
 TLI improved to 0.882, closer to the recommended >0.90.
 RMSEA decreased to 0.07, now within the acceptable range (<0.08).
 
-
-##Conclusion
 Although model 2 has improved, the TLI is still below the ideal threshold and should be improved, and the VIF scores were very high (range from 19.39 to 76.81), suggesting severe multicollinearity which means that some items may be measuring the same underlying concept, rather than distinct constructs.
 image alt](URL)
 
@@ -67,8 +65,30 @@ Suggestions:
 -Re-evaluate factor structure: Some items might fit better under a different latent variable than originally hypothesized.
 -Modify the model by removing problematic items and testing whether the fit indices improve.
 
+#Technologies Used
+Python (semopy, pandas, matplotlib)
+Confirmatory Factor Analysis (CFA)
+Model Fit Evaluation (CFI, TLI, RMSEA, Chi-Square)
+Data Visualization
 
+#How to Run This Analysis
+Install required dependencies:
+pip install semopy pandas matplotlib
+Load the dataset (df) containing the SEL variables.
+Run CFA using semopy:
+model = semopy.Model(model_spec_1)
+model.fit(df)
+Compare model fits and interpret results.
 
+##Conclusion
+
+This study explored CFA on SEL data, testing two models. Model 2 demonstrated notable improvements over Model 1 but still suggests areas for further refinement. The insights gained from this analysis contribute to the development of more reliable SEL assessments in educational research.
+
+For more details, check the full report in REPORT.md.
+
+Author
+
+[Mbali Mabaso]Data Scientist | Data Analyst[[Your LinkedIn](https://www.linkedin.com/jobs/view/4106488511/)] | [Your GitHub]
 
 
 
