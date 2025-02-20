@@ -14,7 +14,7 @@ This project demonstrates the process of performing CFA using Python (semopy) an
 #Latent Variables and Observed Indicators
 
 MODEL 1: 5 factor structure
-```Self Awareness =~ I_say_sorry + Easy_talk_feelings + Teachers_lie
+Self Awareness =~ I_say_sorry + Easy_talk_feelings + Teachers_lie
 Self Regulation =~ Good_at_lining_up + Others_make_fight + Teachers_disturbing_class + Feel_sad + Feel_worried
 social awareness =~ Like_listen_ideas + Understand_others + Help_sad_people
 relationship skills =~ One_good_friend + Peers_like_me + Peers_say_kind
@@ -24,7 +24,7 @@ MODEL 2: 4 factor structure
 Self Regulation =~ Good_at_lining_up + Others_make_fight + Teachers_disturbing_class + Feel_sad + Feel_worried
 social awareness =~ Like_listen_ideas + Understand_others + Help_sad_people
 relationship skills =~ One_good_friend + Peers_like_me + Peers_say_kind
-Responsible Decisions =~ Follow_rules_alone + Homework_on_time + Think_before_act + Study_before_test```
+Responsible Decisions =~ Follow_rules_alone + Homework_on_time + Think_before_act + Study_before_test
 
 
 --Self Awareness: Measures students' ability to recognize emotions and express themselves.
