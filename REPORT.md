@@ -47,14 +47,16 @@ these questions were unclear : Know_not_good_at, Like_talk_front, Prefer_grownup
 Evaluated multicollinearity among observed variables.
 All items had extremely high VIFs. To practice CFA using Python, I continued with the CFA analysis anyway and provided
 suggestions to improve model fit.
-(nsert image here)
+Correlation Matrix
+![](CorrelationMatrixSEL.png)
 
-5. Checking Multivariate Normality and Univariate Normality:
+
+6. Checking Multivariate Normality and Univariate Normality:
 Assessed multivariate normality via Mardia’s test.
 Used Shapiro-Wilk tests and skewness/kurtosis values to examine normality in all survey items.
 Both tests were significant (p = <.05), indicating non-normality of data. Therefore, Robust Maximum Likelihood (MLR) was used.
 
-6. Cronbach’s Alpha for Internal Consistency:
+7. Cronbach’s Alpha for Internal Consistency:
    
 Computed Cronbach’s Alpha for each latent factor to check internal consistency.
 
