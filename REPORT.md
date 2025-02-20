@@ -53,14 +53,20 @@ Used Shapiro-Wilk tests and skewness/kurtosis values to examine normality in all
 Both tests were significant (p = <.05), indicating non-normality of data. Therefore, Robust Maximum Likelihood (MLR) was used.
 
 5. Cronbach’s Alpha for Internal Consistency:
+   
 Computed Cronbach’s Alpha for each latent factor to check internal consistency.
+
 -Cronbach alpha for self awareness (I_say_sorry, Easy_talk_feelings, Teachers_lie) is .425, which is not good reliability.
+
 -Cronbach alpha for self regulation (Good_at_lining_up, Others_make_fight, Teachers_disturbing_class,Feel_sad,Feel_worried)
 is .617. However, since Feel_sad and Feel_worried were later found to have insignificant factor loading, they were removed
 from the model and the recalculated Cronbach alpha was .650, which is still acceptable.
+
 -Cronbach alpha for social awareness (Like_listen_ideas, Respect_cultures, Understand_others, Help_sad_people) was .662.
 However, since Respect_cultures had a very low factor loading, it was removed from the model the recalculated Cronbach alpha was .712, which is very good.
+
 -Cronbach alpha for relationship skills (One_good_friend, Peers_like_me, Peers_say_kind) was .726, which is very good.
+
 -Cronbach alpha for responsible decision making (Follow_rules_alone, Homework_on_time, Think_before_act, Study_before_test) was .658, which is acceptable.
 Cronbach alpha summary
 
