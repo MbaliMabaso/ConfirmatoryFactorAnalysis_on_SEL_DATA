@@ -47,6 +47,12 @@ The structure was adjusted to test if model performance improved with fewer fact
 
 
 
+##Conclusion
+
+Although model 2 has improved, the TLI is still below the ideal threshold and should be improved, and the VIF scores were very high (range from 19.39 to 76.81), suggesting severe multicollinearity which means that some items may be measuring the same underlying concept, rather than distinct constructs.
+
+Suggestions Identify and remove highly redundant items that might be measuring the same aspect of a latent variable. Conduct Exploratory Factor Analysis (EFA) to see if some items load onto multiple factors or if they cluster too closely. Re-evaluate factor structure: Some items might fit better under a different latent variable than originally hypothesized. Modify the model by removing problematic items and testing whether the fit indices improve.
+
 
 
 
