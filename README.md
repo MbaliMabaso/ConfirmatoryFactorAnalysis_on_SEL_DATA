@@ -45,7 +45,8 @@ The structure was adjusted to test if model performance improved with fewer fact
 
 ##Results and comparisons
 ---
-[image alt](URL)
+![image alt](image_path)  
+
 
 Model 1 fit summary
 Model 1 did not fit well. The CFI and TLI were below the recommended 0.90, and the RMSEA exceeded the acceptable threshold (0.08). The significant chi-square test also indicated a poor fit.
