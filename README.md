@@ -38,9 +38,10 @@ Responsible Decisions =~ Follow_rules_alone + Homework_on_time + Think_before_ac
 --Responsible Decisions: Measures decision-making and problem-solving skills.
 
 #Removed variables
-Respect culture was removed from the latent variable social awareness as it had a factor loading <.3
-Feel sad and Feel worried were removed from the latent variable self-regulation because their factor loadings had insignificant p-values.
-The SelfAwareness factor was removed due to poor fit in Model 1.
+
+Respect_culture was removed from the latent variable social awareness as it had a factor loading <.3
+Feel_sad and Feel_worried were removed from the latent variable self-regulation because their factor loadings had insignificant p-values.
+The Self-awareness factor was removed due to poor fit in Model 1.
 The structure was adjusted to test if model performance improved with fewer factors.
 
 ##Results and comparisons
@@ -50,14 +51,14 @@ The structure was adjusted to test if model performance improved with fewer fact
 Model 1 fit summary
 Model 1 did not fit well. The CFI and TLI were below the recommended 0.90, and the RMSEA exceeded the acceptable threshold (0.08). The significant chi-square test also indicated a poor fit.
 
-model 2 fit summary
+Model 2 fit summary
 Model 2 showed a notable improvement:
 Chi-square reduced significantly (from 289.63 to 89.38), though still significant.
 CFI increased to 0.91, surpassing the 0.90 threshold for acceptable fit.
 TLI improved to 0.882, closer to the recommended >0.90.
 RMSEA decreased to 0.07, now within the acceptable range (<0.08).
 
-Although model 2 has improved, the TLI is still below the ideal threshold and should be improved, and the VIF scores were very high (range from 19.39 to 76.81), suggesting severe multicollinearity which means that some items may be measuring the same underlying concept, rather than distinct constructs.
+Although model 2 has improved, the TLI is still below the ideal threshold and should be improved, and the VIF scores were very high (ranging from 19.39 to 76.81), suggesting severe multicollinearity which means that some items may be measuring the same underlying concept, rather than distinct constructs.
 
 
 ##Suggestions:
