@@ -88,7 +88,7 @@ For more details, check the full report in REPORT.md.
 
 Author
 
-[Mbali Mabaso]Data Scientist | Data Analyst[[Your LinkedIn](https://www.linkedin.com/jobs/view/4106488511/)] | [Your GitHub]
+[Mbali Mabaso]Data Scientist | Data Analyst[[Your LinkedIn](https://www.linkedin.com/jobs/view/4106488511/)] 
 
 
 
