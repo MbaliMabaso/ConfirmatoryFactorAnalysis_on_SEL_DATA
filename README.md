@@ -45,6 +45,9 @@ The structure was adjusted to test if model performance improved with fewer fact
 
 ##Results and comparisons
 ---
+![CFA Model]((https://github.com/MbaliMabaso/ConfirmatoryFactorAnalysis_on_SEL_DATA/blob/186f90208f49055b6a75b030125147541452c496/Model_Fit_ComparisonSEL.png))
+
+
 ![image alt]([image_path](https://github.com/MbaliMabaso/ConfirmatoryFactorAnalysis_on_SEL_DATA/blob/186f90208f49055b6a75b030125147541452c496/Model_Fit_ComparisonSEL.png))  
 
 Model 1 fit summary
