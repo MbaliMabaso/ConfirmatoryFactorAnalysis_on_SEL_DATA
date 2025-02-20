@@ -70,7 +70,10 @@ However, since Respect_cultures had a very low factor loading, it was removed fr
 -Cronbach alpha for relationship skills (One_good_friend, Peers_like_me, Peers_say_kind) was .726, which is very good.
 
 -Cronbach alpha for responsible decision making (Follow_rules_alone, Homework_on_time, Think_before_act, Study_before_test) was .658, which is acceptable.
+
 Cronbach alpha summary
+
+![](SEL_Cronbach_alpha.png)
 
 ##Methodology
 ---
